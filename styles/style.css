@@ -1,0 +1,22 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    max-width: 900px;
+    background-color: blueviolet;
+}
+
+.heading{
+   
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.heading-info{
+    text-align: justify;
+    
+}
+
+h1{
+    margin-bottom: 20px;
+}
